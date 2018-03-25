@@ -1,5 +1,9 @@
 # Angular workshop app
 
+Links https://gist.github.com/aiboy/f19474cdcf53962a7c71c381b7e06121
+
+##
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
